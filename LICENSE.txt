@@ -1,0 +1,24 @@
+Copyright © 2026 Antonie Alexandru Bogdan
+
+All Rights Reserved.
+
+This source code and associated files are the
+original work of Antonie Bogdan.
+
+Permission is granted to Harambe Cartel ("Team") to use,
+run, and modify the Software solely for the purpose of FTC
+competition activities, for as long as the Author is an active
+member of the Team.
+
+This permission ends automatically if the Author leaves, is removed
+from, or otherwise stops being an active member of the Team, unless
+the Author agrees in writing to extend it.
+
+No other use, copying, distribution, sublicensing, or modification
+of the Software is permitted without prior written permission from
+the Author.
+
+This Software is provided "as is", without warranty of any kind,
+express or implied.
+
+Contact: antonieabogdan@gmail.com
